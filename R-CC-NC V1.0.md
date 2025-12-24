@@ -65,7 +65,7 @@ This fork may include custom modifications or updates that differ from the origi
 
 📬 **7. Contact:**
 
-- GitHub: [@raelmc](https://github.com/raelmc)  
+- GitHub: [@raelmcdev](https://github.com/raelmcdev)  
 - Discord: raelmc  
 - Discord Server: (insert link)  
 
