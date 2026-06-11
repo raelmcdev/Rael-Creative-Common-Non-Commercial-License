@@ -48,7 +48,7 @@ This fork includes custom modifications and is not affiliated with or endorsed b
 
 📬 6. Contact:
 
-- GitHub: https://github.com/raelmcdev  
+- GitHub: https://github.com/raelmc
 - Discord: raelmc  
 - Discord Server: https://discord.gg/pdwbVCqjPQ
 
